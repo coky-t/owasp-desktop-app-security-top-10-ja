@@ -13,6 +13,10 @@ This is the unofficial Japanese translation of the [OWASP Desktop App Security T
 * [OWASP Top 10 デスクトップアプリケーションセキュリティリスク (2021) 詳細情報](Document/tab_detaileddescription.md)
 * [リーダー](Document/leaders.md)
 
+## License
+
+[MIT License](https://github.com/OWASP/www-project-desktop-app-security-top-10/blob/main/LICENSE)
+
 ## Author (日本語訳)
 
 [Koki Takeyama](https://github.com/coky-t)
