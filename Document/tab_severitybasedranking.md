@@ -29,9 +29,10 @@ tags: example-tag
 | DA7 - 安全でない通信 (Insecure Communication) | 4 | 0 | 4 | 3 | 0 |
 | DA10 - 不十分なログ記録と監視 (Insufficient Logging & Monitoring) | 4 | 0 | 4 | 2 | 1 |
 | DA9 - 既知の脆弱性を持つコンポーネントの使用 (Using Components with Known Vulnerabilities) | 0 | 0 | 0 | 0 | 0 |
+
 <br/>
 
-![Graphical Representation](assets/images/ranking_chart.png)
+![Graphical Representation](ranking_chart.png)
 
 <br/>
 注記: 
