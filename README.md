@@ -17,6 +17,6 @@ This is the unofficial Japanese translation of the [OWASP Desktop App Security T
 
 [MIT License](https://github.com/OWASP/www-project-desktop-app-security-top-10/blob/main/LICENSE)
 
-## Author (日本語訳)
+## Translator (Japanese)
 
 [Koki Takeyama](https://github.com/coky-t)
